@@ -80,19 +80,19 @@ header li {
 
 header a {
     display: block;
-    color: #08e8de;
+    color: #f05f40;
     padding: 10px
 }
 
 header a:hover {
-    color: #08e8de;
+    color: #f05f40;
     text-decoration: none;
     background: #ffffff12;
     border-radius: 4px
 }
 
 header a:focus {
-    color: #08e8de;
+    color: #f05f40;
     text-decoration: none
 }
 
@@ -115,7 +115,7 @@ header.sticky {
     position: fixed;
     right: 15px;
     top: 10px;
-    color: #08e8de;
+    color: #f05f40;
     font-size: 1.5em;
     z-index: 20;
     padding: 0 7px;
@@ -132,7 +132,7 @@ header.sticky {
     padding-right: 15px;
     padding-top: 10px;
     cursor: pointer;
-    color: #08e8de
+    color: #f05f40
 }
 
 #mobile-menu-close span {
@@ -198,7 +198,7 @@ footer {
 }
 
 .social a:hover {
-    color: #08e8de
+    color: #f05f40
 }
 
 .btn-rounded-white {
@@ -211,7 +211,7 @@ footer {
 }
 
 .btn-rounded-white:hover {
-    color: #08e8de;
+    color: #f05f40;
     background: #fff;
     text-decoration: none
 }
@@ -241,7 +241,7 @@ footer {
     left: 0;
     right: 0;
     margin: 0 auto;
-    background: #08e8de
+    background: #f05f40
 }
 
 .background-alt {
@@ -320,7 +320,7 @@ footer {
     width: 35px;
     height: 35px;
     border-radius: 50%;
-    border: 3px solid #08e8de;
+    border: 3px solid #f05f40;
     text-align: center;
     -webkit-animation: bounce 2s infinite 2s;
     animation: bounce 2s infinite 2s;
@@ -385,7 +385,7 @@ footer {
     right: auto;
     height: 100%;
     width: 3px;
-    background: #08e8de;
+    background: #f05f40;
     z-index: 0
 }
 
@@ -394,8 +394,8 @@ footer {
     content: '';
     width: 3px;
     height: 40px;
-    background: #08e8de;
-    background: linear-gradient(to bottom, #08e8de, rgba(52, 152, 219, 0));
+    background: #f05f40;
+    background: linear-gradient(to bottom, #f05f40, rgba(52, 152, 219, 0));
     top: 100%;
     left: 303px
 }
@@ -442,7 +442,7 @@ footer {
     color: #fff;
     width: 50px;
     height: 50px;
-    background: #08e8de;
+    background: #f05f40;
     border-radius: 50%;
     float: left;
     z-index: 99;
@@ -671,7 +671,7 @@ footer {
 
 #contact-form button:hover {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
-    background: #08e8de;
+    background: #f05f40;
 }
 
 #contact-form button:focus {
@@ -854,7 +854,7 @@ footer {
 }
 
 #download a:hover, a:focus {
-    color: #08e8de;
+    color: #f05f40;
     text-decoration: none;
 }
 
