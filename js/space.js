@@ -3,7 +3,7 @@ var space;
 function floatySpace() {
   var colors = [
   //  "#FF3F8E", "#08e8de", "#2E55C1"
-   "#f05f40", "#ffffff", "#2E55C1"
+   "#f05f40", "#ffffff", "yellow"
   ];
 
   space = new CanvasSpace("canvas", "#252934" ).display(); //020303
