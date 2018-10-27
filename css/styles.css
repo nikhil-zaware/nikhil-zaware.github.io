@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Barcode+128+Text|Lobster|Monoton');
 #about p,h1,h2,h3,h4{
-	word-break: break-all;
+	text-align:justify;
 }
 .project-image img{
 height: 128px;
