@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Barcode+128+Text|Lobster|Monoton');
-p,h1,h2,h3,h4{
+#about p,h1,h2,h3,h4{
 	word-break: break-all;
 }
 
